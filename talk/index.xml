@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usman Akhtar </title>
+    <link>https://github.com/usmanakhtar/username.github.io/talk/</link>
+    <description>Recent content on Usman Akhtar </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Usman Akhtar</copyright>
+    <lastBuildDate>Fri, 12 May 2017 20:15:24 +0900</lastBuildDate>
+    <atom:link href="/usmanakhtar/username.github.io/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://github.com/usmanakhtar/username.github.io/talk/my-talk-name/</link>
+      <pubDate>Fri, 12 May 2017 20:14:18 +0900</pubDate>
+      
+      <guid>https://github.com/usmanakhtar/username.github.io/talk/my-talk-name/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

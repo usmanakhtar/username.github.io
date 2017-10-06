@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Usman Akhtar </title>
+    <link>https://github.com/usmanakhtar/username.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Usman Akhtar </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Usman Akhtar</copyright>
+    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/usmanakhtar/username.github.io/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evaluating Scheduling Strategies in LOD Based Application</title>
+      <link>https://github.com/usmanakhtar/username.github.io/publication/apnomst2017/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/usmanakhtar/username.github.io/publication/apnomst2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Question Answering Framework To Query Statistical Data</title>
+      <link>https://github.com/usmanakhtar/username.github.io/publication/embc2017/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/usmanakhtar/username.github.io/publication/embc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Semantic Question Answering Framework on RDF Data Cubes</title>
+      <link>https://github.com/usmanakhtar/username.github.io/publication/icost2017/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/usmanakhtar/username.github.io/publication/icost2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Managing Real-Time Data in Health Information System (HIS)</title>
+      <link>https://github.com/usmanakhtar/username.github.io/publication/icost2016/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/usmanakhtar/username.github.io/publication/icost2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
